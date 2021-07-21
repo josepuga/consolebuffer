@@ -1,0 +1,6 @@
+bin/
+build/
+build.LINUX/
+build.WINDOWS/
+NOTAS.txt
+.vscode/
